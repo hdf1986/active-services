@@ -1,5 +1,8 @@
 [![Build Status](https://travis-ci.org/hdf1986/active_network_record.svg?branch=master)](https://travis-ci.org/hdf1986/active_network_record)
 
+# WIP: Don't use this yet!
+This isn't ready yet! Im currently working on releasing an stable version with a better readme and a good test suite
+
 # ActiveNetworkRecord
 
 Welcome to your new gem! In this directory, you'll find the files you need to be able to package up your Ruby library into a gem. Put your Ruby code in the file `lib/active_network_record`. To experiment with that code, run `bin/console` for an interactive prompt.
